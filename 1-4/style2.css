@@ -1,0 +1,23 @@
+@media screen and (max-width: 767px) {
+    .top{
+        width: 300px;
+    }
+    .left{
+        width: 100px;
+    }
+    .right2{
+        width: 75px;
+    }
+    .right1Top{
+        width: 125px;
+    }
+    .right1Under{
+        width: 125px;
+    }
+    .rightUnder{
+        width: 200px;
+    }
+    .footer{
+        width: 300px;
+    }
+}
