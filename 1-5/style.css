@@ -1,0 +1,109 @@
+.header {
+    position: relative;
+    background-color: #141f40;
+    height: 100px;
+    width: 400px;
+}
+.migiue {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    height: 60px;
+    width: 160px;
+    background-color: white;
+}
+.migiue1 {
+    position: absolute;
+    top: 30px;
+    right: 130px;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-color: #a9004b;
+}
+.migiue2 {
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-color: #a9004b;
+}
+.migiue3 {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-color: #a9004b;
+}
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.left {
+    background-color: #80bfa8;
+    height: 250px;
+    width: 150px;
+    float: left;
+}
+.right {
+    background-color: #8c2727;
+    height: 250px;
+    width: 250px;
+    float: left;
+    position: relative;
+}
+.contents1 {
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}
+.nakami1{
+    background-color: #ff863f;
+    height: 40px;
+    width: 140px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.contents2 {
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 100px;
+    right: 60px;
+}
+.nakami2{
+    background-color: #ff863f;
+    height: 40px;
+    width: 140px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.contents3 {
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 160px;
+    right: 60px;
+}
+.nakami3{
+    background-color: #ff863f;
+    height: 40px;
+    width: 140px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.footer {
+    background-color: #d98d30;
+    height: 100px;
+    width: 400px;
+}

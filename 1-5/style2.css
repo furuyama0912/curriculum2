@@ -1,0 +1,63 @@
+@media screen and (max-width:479px) {
+    .header {
+        position: relative;
+        width: 200px;
+        height: 200px;
+    }
+    .migiue {
+        width: 60px;
+        height: 160px;
+        position: absolute;
+        right: 70px;
+    }
+    .migiue1{
+        position: absolute;
+        right: 80px;
+    }
+    .migiue2{
+        position: absolute;
+        top: 80px;
+    }
+    .migiue3{
+        position: absolute;
+        top: 130px;
+        right: 80px;
+    }
+    .left {
+        width: 200px;
+        height: 100px;
+        float: none;
+    }
+    .right {
+        width: 200px;
+        height: 210px;
+        float: none;
+    }
+    .contents1{
+        width: 140px;
+        top: 20px;
+        right: 30px;
+    }
+    .nakami1 {
+        width: 130px;
+    }
+    .contents2 {
+        width: 140px;
+        top: 80px;
+        right: 30px;
+    }
+    .nakami2 {
+        width: 130px;
+    }
+    .contents3 {
+        width: 140px;
+        top: 140px;
+        right: 30px;
+    }
+    .nakami3 {
+        width: 130px;
+    }
+    .footer {
+        width: 200px;
+    }
+}
