@@ -1,0 +1,46 @@
+.header {
+    background-color: #141f40;
+    height: 100px;
+    width: 400px;
+}
+.main {
+    width: 400px;
+}
+.top{
+    height: 150px;
+}
+.left1 {
+    background-color: #dbd403;
+    height: 150px;
+    width: 100px;
+    float: left;
+}
+.uesita {
+    float: left;
+}
+.ue {
+    background-color: #8c2727;
+    height: 50px;
+    width: 150px;
+}
+.sita {
+    background-color: #ff9e6b;
+    height: 100px;
+    width: 150px;
+}
+.under {
+    background-color: #0093b7;
+    height: 100px;
+    width: 250px;
+}
+.right {
+    background-color: #80bfa8;
+    height: 250px;
+    width: 150px;
+    float: right;
+}
+.footer {
+    background-color: #d98d30;
+    height: 100px;
+    width: 400px;
+}
